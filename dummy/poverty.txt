@@ -1,0 +1,5 @@
+highest poverty	1 0 0 0
+high poverty	0 1 0 0
+low poverty	0 0 1 0
+moderate poverty	0 0 0 1
+-	0 0 0 0

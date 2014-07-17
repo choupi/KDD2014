@@ -1,0 +1,7 @@
+Books	1 0 0 0 0 0
+Other	0 1 0 0 0 0
+Trips	0 0 1 0 0 0
+Supplies	0 0 0 1 0 0
+Technology	0 0 0 0 1 0
+Visitors	0 0 0 0 0 1
+-	0 0 0 0 0 0
